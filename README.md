@@ -1,5 +1,6 @@
 <h1 align= "center">
 
+<img src="/C:/QAx/cypress-express-mark/apps/markL/web/assets/logo.317f9e24.svg" alt="Mark Logo">
 
 Projeto de Testes Automatizados E2E (Ponta a Ponta) | Javascript | Cypress 
 <h1> 
@@ -39,6 +40,20 @@ Projeto executado em um ambiente de desenvolvimento local nas aplicações "Mark
 <li>Viewport Size</li>
 <li>Evidências das execuções dos testes automatizados em formato de videos e capturas de tela (screenshots)</li>
 <li>Allure Reports</li>
+
+</ul>
+
+##  Casos de testes implementados no projeto
+
+<ul dir="auto">
+
+<li>Validar aplicação online</li>
+<li>Validar cadastro de uma tarefa com sucesso</li>
+<li>Validar que não deve cadastrar uma tarefa duplicada</li>
+<li>Validar campo obrigatório</li>
+<li>Validar conclusão de uma tarefa</li>
+<li>Validar exclusão de uma tarefa</li>
+
 
 </ul>
 
